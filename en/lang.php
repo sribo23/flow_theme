@@ -1417,7 +1417,6 @@ $aLang = array(
 'TOOLTIPS_ITEMUNASSIGN'                                    => 'Unassign from shop',
 'TOOLTIPS_ARTLIST_NEWROLE'                                 => 'Create new Role',
 'TOOLTIPS_ARTLIST_ROLEGENERATOR'                           => '(Re) Generate Rights & Roles fields',
-'TS_RATINGS_BUTTON_ALT'                                    => 'Write a review!',
 'USER_ADDRESS_DELIVERYADDRESS'                             => 'Shipping Addresses',
 'USER_ARTICLE_QUANTITY'                                    => 'Quantity',
 'USER_EXTEND_PRIVATFON'                                    => 'Evening Phone',
